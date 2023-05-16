@@ -1,0 +1,24 @@
+*{
+  background-color: rgb(149, 198, 226);
+}
+.container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tab{
+  width: 60%;
+  margin: 50px;
+  padding: 50px;
+}
+.container img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 50px;
+}
+
+
+
